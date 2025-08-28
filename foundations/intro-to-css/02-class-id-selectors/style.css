@@ -1,0 +1,21 @@
+
+.paragraph {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    color: black;
+    background-color: #FFB6C1;
+}
+
+.paragraph.cooler {
+    font-size: 24px;
+}
+
+#div-1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#div-2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(120, 70%, 70%);
+}
